@@ -7,3 +7,6 @@
 [submodule "bundle/vim_snipmate"]
 	path = bundle/vim_snipmate
 	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/vim_fuzzyfinder"]
+	path = bundle/vim_fuzzyfinder
+	url = https://github.com/vim-scripts/FuzzyFinder.git
