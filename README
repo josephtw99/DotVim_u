@@ -1,1 +1,7 @@
-#
+Installation:
+
+  git clone git@github.com:josephtw99/DotVim_u.git .vim
+
+Create symlinks:
+  ln -s ~/.vim/vimrc  ~/.vimrc
+  ln -s ~/.vim/gvimrc ~/.gvimrc
